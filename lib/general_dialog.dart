@@ -1,7 +1,4 @@
 library general_dialog;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/general_dialog.dart';
+export 'src/general_dialog_controller.dart';
